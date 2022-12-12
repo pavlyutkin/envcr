@@ -1,9 +1,9 @@
 {
-    "name": "cenv",
+    "name": "envcr",
     "version": "1.0.0",
     "description": "Simple util for encrypting .env files.",
     "main": "index.js",
-    "repository": "git@github.com:pavlyutkin/cenv.git",
+    "repository": "git@github.com:pavlyutkin/envcr.git",
     "author": "Artem Pavlyutkin <ar.pavlyutkin@gmail.com>",
     "license": "MIT",
     "keywords": [],
